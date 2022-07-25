@@ -1,0 +1,11 @@
+#root {
+  /* display: grid;
+  grid-template-columns: repeat(4,1fr); */
+  display: block;
+  width: 90%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  justify-content: center;
+}
+
